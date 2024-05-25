@@ -14,7 +14,7 @@ a. If a commit is made to main branch, test and push to prod
 b. If a commit is made to patch branch, just test the product, do not push to prod
 
 
-# Process briefing:
+## Process briefing:
 
 In this project, we need to install “Java”, “Jenkins”, “Ansible”, “Docker” & “Python” on “Master” instance while we install “Java” & “Docker” on both Slave instances. 
 
@@ -52,4 +52,4 @@ M. Add “Slave1” in “Jenkins”
 
 N. Add “Slave2” in “Jenkins”
 
-# More later...
+### More later...
